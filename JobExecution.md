@@ -33,3 +33,6 @@ Constraints:
 1 ≤ executionTime[i]≤ 10^9
 
 1 <= y < x ≤ 10^ 9
+
+![image](https://github.com/rishicake/Leet/assets/165774450/fdde65c8-217e-4be1-9938-334b29f685cc)
+
